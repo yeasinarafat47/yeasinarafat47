@@ -2,16 +2,10 @@
 <h3 align="center">My passione dive me into Web Development</h3>
 <div class="op">
 
-  <img align="right" alt="" class="bh ln na c" width="400" height="378" loading="eager" role="presentation" src="https://miro.medium.com/v2/resize:fit:1000/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif">
+  <img align="right" alt="" class="bh ln na c" width="900" height="308" loading="eager" role="presentation" src="https://miro.medium.com/v2/resize:fit:1000/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif">
   
 </div>
 
-<style>
-  .op{
-    display:flex;
-    align-item:center;
-  }
-</style>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeasinarafat47&label=Profile%20views&color=0e75b6&style=flat" alt="yeasinarafat47" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yeasinarafat47" alt="yeasinarafat47" /></a> </p>
