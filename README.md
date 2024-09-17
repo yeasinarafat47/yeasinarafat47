@@ -1,6 +1,6 @@
 <h3 align="center">My passione dive me into Web Development</h3>
-< img align="right" alt="web development" width="400" src"https://miro.medium.com/v2/resize:fit:1100/format:webp/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif">
-![image](https://github.com/user-attachments/assets/66d79a35-687f-434e-8b70-bd7ef3e34b5c)
+< img align="right" alt="web development" width="400" src"(https://github.com/user-attachments/assets/66d79a35-687f-434e-8b70-bd7ef3e34b5c).gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeasinarafat47&label=Profile%20views&color=0e75b6&style=flat" alt="yeasinarafat47" /> </p>
 
