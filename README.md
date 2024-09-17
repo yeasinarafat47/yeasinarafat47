@@ -1,7 +1,11 @@
 <h1>Hellow, I'm Yeasin Arafat</h1>
 <h3 align="center">My passione dive me into Web Development</h3>
+<div class="op">
 
-<img align="right" alt="" class="bh ln na c" width="800" height="378" loading="eager" role="presentation" src="https://miro.medium.com/v2/resize:fit:1000/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif">
+  <img align="right" alt="" class="bh ln na c" width="400" height="378" loading="eager" role="presentation" src="https://miro.medium.com/v2/resize:fit:1000/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif">
+  
+</div>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeasinarafat47&label=Profile%20views&color=0e75b6&style=flat" alt="yeasinarafat47" /> </p>
 
