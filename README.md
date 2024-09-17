@@ -2,7 +2,7 @@
 
 <h3 align="center">My passione dive me into Web Development</h3>
 
-<img align="right" alt="" class="bh ln na c" width="400" height="388" loading="eager" role="presentation" src="https://miro.medium.com/v2/resize:fit:1000/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif">
+<img align="right" alt="" class="bh ln na c" width="400" height="" loading="eager" role="presentation" src="https://miro.medium.com/v2/resize:fit:1000/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeasinarafat47&label=Profile%20views&color=0e75b6&style=flat" alt="yeasinarafat47" /> </p>
 
