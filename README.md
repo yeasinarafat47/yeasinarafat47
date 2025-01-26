@@ -28,10 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yeasinarafat47&show_icons=true&locale=en" alt="yeasinarafat47" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yeasinarafat47&" alt="yeasinarafat47" /></p>
-.markdown-body {
-    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
-    font-size: 16px;
-    line-height: 1.5;
-    background: #8d3379;
-    word-wrap: break-word;
-}
+
